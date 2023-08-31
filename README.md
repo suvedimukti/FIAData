@@ -1,1 +1,3 @@
-# The document details the process to extract Forest Inventory and Analysis (FIA) SQlite database for selected state into comma seperated files. 
+# Extract FIA SQLite Database
+
+The document details the process of extracting the Forest Inventory and Analysis (FIA) SQLite database for the selected states into comma-separated files. 
